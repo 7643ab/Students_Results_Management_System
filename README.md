@@ -1,4 +1,4 @@
-🎓 MY_VTU_PROJECT
+🎓 Students_Results_Management_System
 
 A ReactJS web app to check VTU (Visvesvaraya Technological University) exam results online.
 Built with ReactJS, Axios, React Bootstrap, and JSON Server.
@@ -25,8 +25,8 @@ Data Fetching: Axios
 
 1. Clone the repo
 
-git clone https://github.com/7643ab/MY_VTU_PROJECT.git
-cd MY_VTU_PROJECT
+git clone https://github.com/7643ab/Students_Results_Management_System.git
+cd Students_Results_Management_System
 
 
 2. Install dependencies
